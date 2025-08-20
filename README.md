@@ -1,52 +1,56 @@
-**Missing Data Cleaner Dashboard**
+# Missing Data Cleaner Dashboard
 
 A Streamlit-based web application for handling missing data in datasets.
 This project was developed as part of my internship to simplify the process of data preprocessing before machine learning and analytics tasks.
 
->🚀 Features
+## 👤 Created By
+**KRITI TRIPATHI**  
+IIT Patna|GUVI-HCL Intern
+Project 2
 
-Upload a CSV file (up to 200MB).
+## 🚀 Features
 
-Display the original dataset.
+- Upload a CSV file (up to 200MB).
 
-Identify missing values per column.
+- Display the original dataset.
 
-Clean missing data using Mean, Median, or Mode.
+- Identify missing values per column.
 
-View the cleaned dataset.
+- Clean missing data using Mean, Median, or Mode.
 
-Download the cleaned dataset as a CSV file.
+- View the cleaned dataset.
 
->🖼️ Screenshots
-Original Dataset
+- Download the cleaned dataset as a CSV file.
 
-Missing Values per Column
+## 🖼️ Screenshots
+- Original Dataset
 
-Cleaned Dataset
+- Missing Values per Column
 
-> 🛠️ Tech Stack
+- Cleaned Dataset
 
-Python
+## 🛠️ Tech Stack
 
-Streamlit – for building the dashboard
+- Python
 
-Pandas – for data handling
+- Streamlit – for building the dashboard
 
-📂 How to Run
+- Pandas – for data handling
+
+## 📂 How to Run
 
 Clone this repository
 
-```bash
-git clone https://github.com/your-username/missing-data-cleaner.git```
+`git clone https://github.com/your-username/missing-data-cleaner.git`
 `cd missing-data-cleaner`
 
 
-Install dependencies
+## Install dependencies
 
 `pip install -r requirements.txt`
 
 
-Run the Streamlit app
+## Run the Streamlit app
 
 `streamlit run app.py`
 
